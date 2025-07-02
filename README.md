@@ -1,6 +1,6 @@
 ![](https://cdn.dribbble.com/users/1480650/screenshots/4739771/autodevops-dribbble-gif.gif)
 <h1 align="center">Hi 👋, I'm Adnan</h1>
-<h3 align="center">I am a Passionate Quality Assurance Engineer with Expertise in Cloud, DevOps, and a Hunger for Learning New Technologies and Creative Problem Solving</h3>
+<h3 align="center">Cloud Learner, Cyber Defender | Architecting Systems That Scale and Stay Safe Passionate about leveraging AWS and security best practices to deliver cloud-native solutions that are both powerful and protected. Eager to contribute to teams where innovation meets accountability.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
 
 - 🔭 I’m currently working on **AWS**
